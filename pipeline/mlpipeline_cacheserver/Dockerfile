@@ -1,1 +1,1 @@
-FROM image: gcr.io/ml-pipeline/cache-server:2.0.0-alpha.3
+FROM gcr.io/ml-pipeline/cache-server:2.0.0-alpha.3
